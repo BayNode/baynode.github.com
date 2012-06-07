@@ -33,8 +33,20 @@ The size and age of the Cosmos are beyond ordinary human understanding. Lost som
 *   Green
 *   Blue
 
-It's just mind-blowingly awesome. I apologize, and I wish I was more articulate, but it's hard to be articulate when your mind's blownÃÂÃÂ¢ÃÂÃÂÃÂÃÂbut in a very good way.
+It's just mind-blowingly awesome. I apologize, and I wish I was more articulate, but it's hard to be articulate when your mind's blownÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂbut in a very good way.
 
 1.  Bird
 2.  McHale
 3.  Parish
+
+#### Here's another heading, because, yeah
+
+1.  This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    sit amet velit.
+
+2.  Suspendisse id sem consectetuer libero luctus adipiscing.
