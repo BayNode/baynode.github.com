@@ -29,5 +29,10 @@ The size and age of the Cosmos are beyond ordinary human understanding. Lost som
 
 #### In a cosmic perspective, most human concerns seem insignificant
 
-It's just mind-blowingly awesome. I apologize, and I wish I was more articulate, but it's hard to be articulate when your mind's blownÃ¢ÂÂbut in a very good way.
+*   Red
+*   Green
+*   Blue
+
+It's just mind-blowingly awesome. I apologize, and I wish I was more articulate, but it's hard to be articulate when your mind's blownÃÂ¢ÃÂÃÂbut in a very good way.
+
 
