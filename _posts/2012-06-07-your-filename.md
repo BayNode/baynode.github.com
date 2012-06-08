@@ -4,7 +4,7 @@ published: false
 
 # This is the top title #
 
-Now is the time for all good men to come to the aid of their country. This is just a regular paragraph. This is [an example](http://example.com/ "Title") inline link. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. Use the `printf()` futygynction.
+Now is the time for all good men to come to the aid of their country. This is just a regular paragraph. This is [an example](http://example.com/ "Title") inline link. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. Use the `printf()` function.
 
 *****
 
