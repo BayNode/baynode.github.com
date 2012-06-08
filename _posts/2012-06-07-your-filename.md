@@ -5,7 +5,7 @@ help: yes please
 
 # This is the top title #
 
-Now is the time for all good men to come to the aid of their country. This is just a regular paragraph. This is [an example](http://example.com/ "Title") inline link. They remind us that humans have evolved to wonder, that understanding is a joy, that knowledge is prerequisite to survival. Use the `printf()` function.
+Now is the time for all good men to come to the aid of their country. This is just a regular paragraph. This is [an example](http://example.com/ "Title") inline link. They remind us that humans have evolved to wonder, that understanding is the joy, that knowledge is prerequisite to survival. Use the `printf()` function.
 
 *****
 
@@ -62,6 +62,7 @@ I get 10 times more traffic from [Google] [1] than from
   [1]: http://google.com/        "Google"
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
+
 
 
 
