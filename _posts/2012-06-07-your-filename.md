@@ -10,6 +10,7 @@ Now is the time for all good men to come to the aid of their country. This is ju
   <a href='{{site.baseurl}}' class='title'><span>Poole.</span></a>
   <!--Github account and links-->
   <a class="root" href="{{site.root_dir}}#">Repos</a>
+</div>
 
 *****
 
@@ -66,6 +67,7 @@ I get 10 times more traffic from [Google] [1] than from
   [1]: http://google.com/        "Google"
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
+
 
 
 
