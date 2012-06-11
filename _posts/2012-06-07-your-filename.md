@@ -1,15 +1,11 @@
 ---
-published: true
+published: false
 help: yes please
 ---
 
 # This is the title #
 
 Now is the time for all god men to come to the aid of their country. This is just a regular paragraph. This is [an example](http://example.com/ "Title") inline link. They remind us that humans have evolved to wonder, that understanding is the joy, that knowledge is prerequisite to survival. Use the `printf()` function. I'd like to *emphasize* the **strength** of my text editor.  
-
-This is a file I Ua m g;ijsfhg difdsd gljth fgslkdfjg fkljgh sflkjgh rlkjhg slfkjgh kfj gd fgkjlhf lkjhfdg klsjdfhg klsjdhdfhjsg fj slkjdhf lsjdhf lkasjdhf djsl kjahsdljkads kajl sdkaljshd akjslhdhj aklsjh laskdjdhjfalksjhgsaklfjjkfghakljhgerkljghaeklrghaliuerhglakdfjhfghjkladuhtgklejhkljahddfhjaglkajdadfhjkgkjhdafg
-
-sdl;aksd;lskdsdklsl;kdldjdsjl; sfd;lksfd;jsfd kljdfskjfd ir ;ilk ralkhr kughskflh salkduhaslk uhakuhsa kjhdf lkjah klurhg skjhsak jhd lkjhsdf kjahr lkjhr kjashkl jd kljasdhjdsf lksjdadhjsf l adsflkjahs fkljrhg sjkf gks ajdfs lkdjfh asdlkhdfhjk
 
 *****
 
