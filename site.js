@@ -53,7 +53,7 @@ longneck.githubWatchers = function() {
     $.ajax({
         // TODO: this endpoint only returns maximum 30 users. Implement random
         // pagination so we see different groups of people.
-        url: 'https://api.github.com/repos/{{site.github_login}}/{{site.github_repo}}/watchers',
+        url: 'https://api.github.com/repos/{{site.github_login}}/{{site.github_repo}}/subscribers',
         dataType: 'jsonp',
         success: function(resp) {
             if (!resp.data.length) return;
