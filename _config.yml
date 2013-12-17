@@ -3,6 +3,7 @@ server: true
 exclude: README.md, .gitignore
 permalink: none
 baseurl: 
+url: http://baynode.github.io
 hashtag: '#baynode'
 github_login: 'baynode'
 github_repo: 'baynode.github.com'
