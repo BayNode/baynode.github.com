@@ -8,6 +8,7 @@ presenters:
     - charlie-robbins
 ---
 
+
 Our December meetup will be happening on Wednesday, December 18th, 2013 at Silicon Valley Pad (1370 Willow Road, 2nd Floor, Menlo Park, CA).  We'll kick things off at 7pm and should wrap up by 9pm.
 
 Ross Kukulinski (@rosskukulinski of ASTI Labs) is going to talk about making technical decisions based on metrics from NodeJS applications using StatsD and Graphite.
