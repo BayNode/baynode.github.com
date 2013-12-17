@@ -3,8 +3,8 @@ server: true
 exclude: README.md, .gitignore
 permalink: none
 baseurl: 
-url: http://nodedc.org
-hashtag: '#nodedc'
-github_login: 'developmentseed'
-github_repo: 'bones'
+url: http://baynode.github.com
+hashtag: '#baynode'
+github_login: 'baynode'
+github_repo: 'baynode.github.com'
 github_lanaguage: 'JavaScript'
