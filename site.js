@@ -50,7 +50,6 @@ longneck.githubWatcherProject = function(resp) {
 
 longneck.githubWatchers = function() {
     var watchers = $('.followers');
-    console.log('{{site.gith')
     $.ajax({
         // TODO: this endpoint only returns maximum 30 users. Implement random
         // pagination so we see different groups of people.
