@@ -73,33 +73,10 @@ $(longneck.githubWatchers);
 
 
 longneck.setup = function() {
-    var tweets = $('.tweets');
-
     $('.watch').hover(
         function() { $('.watch-docs').addClass('active') },
         function() { $('.watch-docs').removeClass('active') }
     )
-
-    $.ajax({
-        url: 'https://api.twitter.com/1.1/search/tweets.json?q=%23BayNode',
-        dataType: 'jsonp',
-        success: function(resp) {
-            if (!resp.results.length) return;
-            var template =
-                "<a target='_blank' href='http://twitter.com/<%=from_user%>/status/<%=id_str%>' class='tweet'>"
-                + "<span class='thumb' style='background-image:url(<%=profile_image_url%>)'></span>"
-                + "<span class='popup'>"
-                + "<span class='title'>@<%=from_user%></span>"
-                + "<small><%=text%></small>"
-                + "</span>"
-                + "<span class='caret'></span>"
-                + "</a>";
-            var t = _(resp.results.slice(0,30))
-                .map(function(i) { return _(template).template(i); })
-                .join('');
-            tweets.append(t).addClass('loaded');
-        }
-    });
 }
 $(longneck.setup);
 
