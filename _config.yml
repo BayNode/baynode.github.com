@@ -2,9 +2,9 @@ auto: true
 server: true
 exclude: README.md, .gitignore
 permalink: none
-baseurl: 
+baseurl: baynode.github.com
 url: http://baynode.github.com
-hashtag: '#baynode'
-github_login: 'baynode'
+hashtag: '#BayNode'
+github_login: 'BayNode'
 github_repo: 'baynode.github.com'
 github_lanaguage: 'JavaScript'

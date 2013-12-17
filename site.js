@@ -50,6 +50,7 @@ longneck.githubWatcherProject = function(resp) {
 
 longneck.githubWatchers = function() {
     var watchers = $('.followers');
+    console.log('{{site.gith')
     $.ajax({
         // TODO: this endpoint only returns maximum 30 users. Implement random
         // pagination so we see different groups of people.
@@ -81,7 +82,7 @@ longneck.setup = function() {
     )
 
     $.ajax({
-        url: 'http://search.twitter.com/search.json',
+        url: 'https://api.twitter.com/1.1/search/tweets.json',
         data: { q: '{{site.hashtag}}', rpp:100 },
         dataType: 'jsonp',
         success: function(resp) {
