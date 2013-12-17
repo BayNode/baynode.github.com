@@ -2,7 +2,7 @@ auto: true
 server: true
 exclude: README.md, .gitignore
 permalink: none
-baseurl: baynode.github.com
+baseurl: 
 url: http://baynode.github.com
 hashtag: '#BayNode'
 github_login: 'BayNode'
