@@ -81,8 +81,7 @@ longneck.setup = function() {
     )
 
     $.ajax({
-        url: 'https://api.twitter.com/1.1/search/tweets.json',
-        data: { q: '{{site.hashtag}}', rpp:100 },
+        url: 'https://api.twitter.com/1.1/search/tweets.json?q=%23BayNode',
         dataType: 'jsonp',
         success: function(resp) {
             if (!resp.results.length) return;
