@@ -15,7 +15,7 @@ Our March lightning-talk meetup will be happening on Thursday, March 6th, 2014 a
 
 We'll kick things off at 7pm, and should wrap up by 9pm.
 
-We have an open call for talks - please a brief proposal to the [BayNode GitHub](https://github.com/BayNode/BayNode)
+We have an open call for talks - please submit a lightning proposal to the [BayNode GitHub](https://github.com/BayNode/BayNode)
 
 
 Everyone is welcome to attend: newcomers to node.js, those interested to hear what the hype is about, and experienced developers looking to trade tricks.
