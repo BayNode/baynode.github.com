@@ -14,7 +14,7 @@ Our December meetup will be happening on Wednesday, December 18th, 2013 at Silic
 
 We'll kick things off at 7pm and should wrap up by 9pm.
 
-Ross Kukulinski (@rosskukulinski of ASTI Labs) is going to talk about making technical decisions based on metrics from NodeJS applications using StatsD and Graphite.
+Ross Kukulinski (@rosskukulinski of ASTI Labs) is going to talk about making technical decisions based on metrics from NodeJS applications using StatsD and Graphite.  [Slides](http://rosskukulinski.github.io/talk-statsd/)
 
 Adam Crabtree (@CrabDude of LinkedIn) will be doing a lightning talk on domains and trycatch (an asynchronous domain-based exception handler)
 
