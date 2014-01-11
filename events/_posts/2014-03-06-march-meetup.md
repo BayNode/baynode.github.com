@@ -9,7 +9,7 @@ presenters:
     - TBD
 ---
 
-Our March lightning-talk meetup will be happening on Thursday, March 6th, 2014 at Silicon Valley Pad (1370 Willow Road, 2nd Floor, Menlo Park, CA).  Look for 'Menlo Science & Technology Park' and take the first left once you have turned off of Willow Road.
+Our March lightning-talk meetup will be happening on Wednesday, March 5th, 2014 at Silicon Valley Pad (1370 Willow Road, 2nd Floor, Menlo Park, CA).  Look for 'Menlo Science & Technology Park' and take the first left once you have turned off of Willow Road.
 
 ![Menlo Science and Technology Park](/assets/menloscience.JPG)
 
